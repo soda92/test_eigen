@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/src/GitLabProjects/test_eigen/build",
+  "command": "C:\\PROGRA~2\\MICROS~2.0\\VC\\bin\\cl.exe  /nologo /TP -IE:\\Downloads2\\eigen-3.1.4 /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\test1.dir\\test1.cpp.obj /FdTARGET_COMPILE_PDB -c E:\\src\\GitLabProjects\\test_eigen\\test1.cpp",
+  "file": "E:\\src\\GitLabProjects\\test_eigen\\test1.cpp",
+  "output": "CMakeFiles\\test1.dir\\test1.cpp.obj"
+}
+]
