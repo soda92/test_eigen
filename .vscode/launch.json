@@ -4,7 +4,7 @@
             "name": "(Windows) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/build/MulticastTool.exe",
+            "program": "${workspaceFolder}/build/matrices_vectors_size_runtime.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
