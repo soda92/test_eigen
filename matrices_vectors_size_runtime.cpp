@@ -1,6 +1,4 @@
-#include "boost/format/format_fwd.hpp"
 #include <Eigen/Dense>
-#include <boost/format.hpp>
 #include <iostream>
 #include <sstream>
 
